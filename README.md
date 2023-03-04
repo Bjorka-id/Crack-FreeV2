@@ -6,6 +6,8 @@
  git pull
  
  python Crack-FreeV2.py
+
+ Pw: AMANTUBILA
 # Pringatan!!
  admin tidak menangung dosa kalian!!
  
