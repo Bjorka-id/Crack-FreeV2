@@ -6,11 +6,11 @@
  git pull
  
  python Crack-FreeV2.py
-# Jangan Di Salah Gunakan
+# Pringatan!!
  admin tidak menangung dosa kalian,
  Dan Gunakan Script Ini Sewajarnya
  
- #Informasi
+ # Informasi
  Kalo Hasilnya Kurang Bagus Minimal Lu
  Ganti HP
   
