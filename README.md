@@ -7,9 +7,11 @@
  
  python Crack-FreeV2.py
 # Pringatan!!
- admin tidak menangung dosa kalian,
- Dan Gunakan Script Ini Sewajarnya
+ admin tidak menangung dosa kalian!!
  
+ Dan Gunakan Script Ini Sewajarnya Oke!!
+
+
  # Informasi
  Kalo Hasilnya Kurang Bagus Minimal Lu
  Ganti HP
