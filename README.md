@@ -1,5 +1,5 @@
 # Crack-FreeV2
- git clone https://github.com/Bjorka-id/Crack-FreeV2.git
+ git clone https://github.com/Bjorka-id/Crack-FreeV2
  
  cd Crack-FreeV2
  
